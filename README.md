@@ -15,7 +15,7 @@ Sales prediction involving forecasting the amount of a product that customers wi
 
 ## Datasets
  The following datasets were used for this project:
-  advertising.xls: The advertising dataset contains the information about the relationship between 'TV','Radio', 'Newspaper' and 'sales'.
+  advertising.csv: The advertising dataset contains the information about the relationship between 'TV','Radio', 'Newspaper' and 'sales'.
 
 ## Libraries Used
 
