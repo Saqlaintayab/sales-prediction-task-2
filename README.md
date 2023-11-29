@@ -1,10 +1,10 @@
 # sales-prediction-task-2
 sales prediction task 2
-## ZIC.labs-TASK4
+## CODESOFT-TASK4
 
 # SALES PREDICTION USING PYTHON
 
-## Author: CHANDRAHAS K
+## Author: SAQLAIN TAYAB
 
 ## Batch: NOVEMBER
 
