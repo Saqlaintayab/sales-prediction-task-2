@@ -1,6 +1,6 @@
 # sales-prediction-task-2
 sales prediction task 2
-## CODESOFT-TASK4
+## CODESOFT-TASK 2
 
 # SALES PREDICTION USING PYTHON
 
